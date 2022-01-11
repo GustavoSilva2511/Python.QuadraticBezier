@@ -6,6 +6,9 @@
 
 *in theory if you install these api's the code will work but i'm not sure... :(*
 
+### Screenshot:
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KcZj925/bezier.png" alt="bezier" border="0"></a>
+
 **References:**
 > Pygame docs: https://www.pygame.org/docs/
 > \
