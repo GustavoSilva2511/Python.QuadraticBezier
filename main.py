@@ -128,6 +128,7 @@ while is_running:
     box.blit()
     box.update()
     
+    #updating pygame
     pygame.display.update()
 
 
