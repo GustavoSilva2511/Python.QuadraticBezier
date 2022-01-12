@@ -15,3 +15,6 @@
 > Wikipedia: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
 > \
 > A wonderfull video from Freya Holmér: https://www.youtube.com/watch?v=aVwxzDHniEw
+
+
+by Jorge Kenned Ferreira dos Santos *but call only kenned pls :)*
