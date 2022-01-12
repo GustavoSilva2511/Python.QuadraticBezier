@@ -1,3 +1,10 @@
+#by: Jorge Kenned Ferreira dos Santos (but call only kenned :) )
+#on: 11/01/2022
+#-----------------
+#-----------
+#-----
+#-
+
 #imports---------------------------------------------
 import math
 import thorpy
