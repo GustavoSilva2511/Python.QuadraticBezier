@@ -123,7 +123,7 @@ while is_running:
     pygame.draw.line(ds, GRAY, (x2,y2), (xm1,ym1), width=1)
 
 
-    #drawing circles
+    #drawing points circles
     pygame.draw.circle(ds, BLACK, (x0,y0),5)
     pygame.draw.circle(ds, BLACK, (x1,y1),3,1, draw_top_left=False)
     pygame.draw.circle(ds, BLACK, (x2,y2),5)
